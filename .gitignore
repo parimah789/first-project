@@ -1,0 +1,11 @@
+*.pyc
+.idea/*
+venv/*
+project/.idea/
+project/db.sqlite3
+project/.idea
+project/static/root/
+project/media/
+project/.vscode/*
+project/.vscode/
+.vscode/
